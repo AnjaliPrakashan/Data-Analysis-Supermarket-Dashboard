@@ -19,4 +19,4 @@ Questions (KPIs):
 •  How do different sales types (Direct Sales vs. Others) contribute to revenue? 
 •  Which day of the month has the highest sales, and what patterns can be identified? 
 •  How do customer purchasing behaviors shift across different months and seasons?
-Dashboard Interaction <a href = ""> v iew Dashboard</a>
+Dashboard Interaction <a href = "https://github.com/AnjaliPrakashan/Data-Analysis-Supermarket-Dashboard/blob/main/SupermarketSales_Dashboard.png"> v iew Dashboard</a>
