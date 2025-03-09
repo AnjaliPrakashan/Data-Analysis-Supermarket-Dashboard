@@ -9,6 +9,7 @@ To analyze supermarket sales performance, identifying trends in sales, profit, p
 **##Dataset Used**
 - <a href = "https://github.com/AnjaliPrakashan/Data-Analysis-Supermarket-Dashboard/blob/main/Sales-Dashboard-practice-file.xlsx">Supermarket Sales Dashboard</a>
 
+
 **##Questions (KPIs):**
 
 •  What is the total sales revenue, and how does it compare to total profit? 
@@ -31,6 +32,7 @@ To analyze supermarket sales performance, identifying trends in sales, profit, p
 
 •  Dashboard Interaction <a href = "https://github.com/AnjaliPrakashan/Data-Analysis-Supermarket-Dashboard/blob/main/SupermarketSales_Dashboard.png"> View Dashboard</a>
 
+
 **##Process**
 
 •	Cleaned data by removing duplicates, categorizing products, and standardizing sales records.
@@ -38,6 +40,7 @@ To analyze supermarket sales performance, identifying trends in sales, profit, p
 •	Visualized sales trends, product performance, and payment mode distribution.
 
 •	Analyzed key metrics to derive actionable insights for business optimization.
+
 
 **##Dashboard**
 
@@ -55,6 +58,7 @@ To analyze supermarket sales performance, identifying trends in sales, profit, p
 •	Direct sales dominate at 52%, highlighting their importance in revenue generation.
 
 •	Insights help in product selection, inventory management, and improving payment strategies.
+
 
 **##Conclusion**
 
