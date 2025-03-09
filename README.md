@@ -1,13 +1,14 @@
 **Supermarket Sales Dashboard**
 
-##Project Objective:
+
+**##Project Objective**
 
 To analyze supermarket sales performance, identifying trends in sales, profit, products, payment modes, and customer preferences to help businesses make data-driven decisions for inventory and revenue growth.
 
-##Dataset Used:
+**##Dataset Used**
 - <a href = "https://github.com/AnjaliPrakashan/Data-Analysis-Supermarket-Dashboard/blob/main/Sales-Dashboard-practice-file.xlsx">Supermarket Sales Dashboard</a>
 
-##Questions (KPIs):
+**##Questions (KPIs):**
 
 •  What is the total sales revenue, and how does it compare to total profit? 
 
@@ -29,7 +30,7 @@ To analyze supermarket sales performance, identifying trends in sales, profit, p
 
 •  Dashboard Interaction <a href = "https://github.com/AnjaliPrakashan/Data-Analysis-Supermarket-Dashboard/blob/main/SupermarketSales_Dashboard.png"> View Dashboard</a>
 
-##Process
+**##Process**
 
 •	Cleaned data by removing duplicates, categorizing products, and standardizing sales records.
 
@@ -37,12 +38,12 @@ To analyze supermarket sales performance, identifying trends in sales, profit, p
 
 •	Analyzed key metrics to derive actionable insights for business optimization.
 
-##Dashboard
+**##Dashboard**
 
 ![SupermarketSales_Dashboard](https://github.com/user-attachments/assets/e2e12983-fb2b-4b4b-8d67-3008ff6e9497)
 
 
-##Insights
+**##Insights**
 
 •	Sales peak in January, with daily fluctuations showing high and low demand days.
 
@@ -53,5 +54,15 @@ To analyze supermarket sales performance, identifying trends in sales, profit, p
 •	Direct sales dominate at 52%, highlighting their importance in revenue generation.
 
 •	Insights help in product selection, inventory management, and improving payment strategies.
+
+**##Conclusion**
+
+The sales dashboard highlights key trends in revenue, product performance, and customer preferences. Peak sales occur early in the year, with direct sales and top categories driving revenue. These insights help businesses optimize inventory, pricing, and payment strategies for better profitability.
+
+
+
+
+
+
 
 
