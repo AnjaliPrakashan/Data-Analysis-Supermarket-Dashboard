@@ -6,6 +6,5 @@ To analyze supermarket sales performance, identifying trends in sales, profit, p
 
 ##Dataset Used:
 
-<a href = "https://leanexcelsolutions.com/sales-dashboard-in-excel-power-bi/#google_vignette">Supermarket Sales Dashboard</a>
-
+- <a href = "https://github.com/AnjaliPrakashan/Data-Analysis-Supermarket-Dashboard/blob/main/Sales-Dashboard-practice-file.xlsx">Supermarket Sales Dashboard</a>
 
