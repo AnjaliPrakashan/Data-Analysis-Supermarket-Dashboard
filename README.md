@@ -7,7 +7,7 @@ To analyze supermarket sales performance, identifying trends in sales, profit, p
 ##Dataset Used:
 - <a href = "https://github.com/AnjaliPrakashan/Data-Analysis-Supermarket-Dashboard/blob/main/Sales-Dashboard-practice-file.xlsx">Supermarket Sales Dashboard</a>
 
-Questions (KPIs):
+##Questions (KPIs):
 
 •  What is the total sales revenue, and how does it compare to total profit? 
 
@@ -27,4 +27,4 @@ Questions (KPIs):
 
 •  How do customer purchasing behaviors shift across different months and seasons?
 
-Dashboard Interaction <a href = "https://github.com/AnjaliPrakashan/Data-Analysis-Supermarket-Dashboard/blob/main/SupermarketSales_Dashboard.png"> View Dashboard</a>
+•  Dashboard Interaction <a href = "https://github.com/AnjaliPrakashan/Data-Analysis-Supermarket-Dashboard/blob/main/SupermarketSales_Dashboard.png"> View Dashboard</a>
