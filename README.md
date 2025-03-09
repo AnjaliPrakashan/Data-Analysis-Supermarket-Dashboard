@@ -1,2 +1,3 @@
-# Data-Analysis-Supermarket-Dashboard
-The Supermarket Sales Dashboard provides a detailed overview of sales performance, profit trends, product and category contributions, and customer preferences in payment modes. This interactive dashboard helps businesses monitor key sales indicators and optimize decision-making for inventory, pricing, and promotions.
+#Supermarket Sales Dashboard
+##Project Objective:
+To analyze supermarket sales performance, identifying trends in sales, profit, products, payment modes, and customer preferences to help businesses make data-driven decisions for inventory and revenue growth.
