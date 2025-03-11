@@ -1,4 +1,4 @@
-# Supermarket Sales Dashboard 🍏📊
+# Supermarket Sales Dashboard 🛒📊
 
 ## Project Objective 🎯
 
