@@ -43,25 +43,12 @@ The objective of this project is to analyze supermarket sales performance by ide
 
 The sales dashboard highlights key trends in revenue 💰, product performance 🏆, and customer preferences 👥. Peak sales occur early in the year 📅, with direct sales and top categories driving revenue 📈. These insights assist businesses in optimizing inventory 🗃️, pricing 💲, and payment strategies 💳 for better profitability.
 
-# Contact 📬
-
-
-
-If you have any questions, feedback, or inquiries about the project, feel free to reach out to me!
 
 ### Contact Information 📞
 
 - **Email**: [anjaliprakashan1809@gmail.com](mailto:anjaliprakashan1809@gmail.com)
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
-### Reach Out 💬
-
-I’d love to hear from you! Whether it's about the project or general feedback, don’t hesitate to get in touch.
-
----
+- **LinkedIn**: [Anjali Prakashan](https://www.linkedin.com/in/anjali-prakashan)
 
 
 
