@@ -51,6 +51,7 @@ If you have any questions, feedback, or inquiries about the project, feel free t
 - **Email**: [anjaliprakashan1809@gmail.com](mailto:anjaliprakashan1809@gmail.com)
 
 - **LinkedIn**: [Anjali Prakashan](https://www.linkedin.com/in/anjali-prakashan)
+- Feel free to reach out for any queries, feedback, or collaborations!
 
 
 
